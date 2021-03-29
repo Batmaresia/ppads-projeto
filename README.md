@@ -1,5 +1,5 @@
 # ppads-projeto
-Projeto de Prática Profissional de Análise e Desenvolvimento de Sistemas
+Projeto de Prática Profissional de Análise e Desenvolvimento de Sistemas.
 
 Este projeto visa desenvolver um webapp de uma rede social de livros, série e filmes.
 
